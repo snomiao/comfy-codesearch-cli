@@ -1,0 +1,14 @@
+{
+  "name": "comfy-codesearch-cli",
+  "type": "module",
+  "bin": {
+    "comfy-codesearch": "./cli.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.7.1",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.35"
+  }
+}
