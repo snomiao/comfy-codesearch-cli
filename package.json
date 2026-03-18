@@ -1,8 +1,9 @@
 {
-  "name": "comfy-codesearch-cli",
+  "name": "comfy-codesearch",
+  "version": "1.0.0",
   "type": "module",
   "bin": {
-    "comfy-codesearch": "./cli.ts"
+    "comfy-codesearch": "cli.ts"
   },
   "dependencies": {
     "yaml": "^2.7.1",
